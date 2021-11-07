@@ -10,7 +10,9 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import javax.security.auth.Subject;
+import com.example.doantest.database.database;
+
+import com.example.doantest.model.Subject;
 
 public class ActivityUpdateSubject extends AppCompatActivity {
 

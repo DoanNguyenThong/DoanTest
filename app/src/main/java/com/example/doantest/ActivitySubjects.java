@@ -13,10 +13,14 @@ import android.widget.ListView;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.Toolbar;
+
+import com.example.doantest.adapter.adapterSubjects;
+import com.example.doantest.database.database;
+import com.example.doantest.model.Subject;
 
 import java.util.ArrayList;
 
-import javax.security.auth.Subject;
 
 public class ActivitySubjects extends AppCompatActivity {
 
@@ -52,7 +56,7 @@ public class ActivitySubjects extends AppCompatActivity {
             String time = cursor.getString(3);
             String place = cursor.getString(4);
 
-            ArrayListSubject.add(new Subject(id,title,credits,time,place));
+            ArrayListSubject.add(new Subject(id, title, credits, time, place));
         }
         adapterSubjects = new adapterSubjects(ActivitySubjects.this,ArrayListSubject);
         listViewSubject.setAdapter(adapterSubjects);

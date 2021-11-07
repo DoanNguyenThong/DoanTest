@@ -11,6 +11,9 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.doantest.database.database;
+import com.example.doantest.model.Student;
+
 public class ActivityUpdateStudent extends AppCompatActivity {
 
     EditText edtUpdateName, edtUpdateCode, edtUpdateBirthday;

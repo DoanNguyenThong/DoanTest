@@ -11,6 +11,9 @@ import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.Toast;
 
+import com.example.doantest.database.database;
+import com.example.doantest.model.Student;
+
 public class ActivityAddStudent extends AppCompatActivity {
 
     Button buttonAddStudent;
