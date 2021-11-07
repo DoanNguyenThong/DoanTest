@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918087789125",
+    "project_id": "doantest-c2c12",
+    "storage_bucket": "doantest-c2c12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918087789125:android:24d5b7eb85717e8a44112c",
+        "android_client_info": {
+          "package_name": "com.example.doantest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918087789125-dhf1g30s3f3csv03hj8k8uct21tdp1nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB03EUnZmye_vadcdoTXh0G7DRV9CtDaKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918087789125-dhf1g30s3f3csv03hj8k8uct21tdp1nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
