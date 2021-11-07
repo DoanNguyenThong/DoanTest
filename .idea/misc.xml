@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/DoanTest/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/activity_update_student.xml" value="0.19384057971014493" />
         <entry key="..\:/mobi/Test/DoAnTest/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
