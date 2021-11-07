@@ -3,11 +3,38 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/DoanTest/app/src/main/res/layout/activity_login.xml" value="0.2" />
-        <entry key="..\:/DoanTest/app/src/main/res/layout/activity_update_student.xml" value="0.19384057971014493" />
+        <entry key="..\:/DoanTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23981481481481481" />
+        <entry key="..\:/DoanTest/app/src/main/res/drawable/baron_buuton.xml" value="0.23981481481481481" />
+        <entry key="..\:/DoanTest/app/src/main/res/drawable/buuttonn.xml" value="0.23981481481481481" />
+        <entry key="..\:/DoanTest/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.23981481481481481" />
+        <entry key="..\:/DoanTest/app/src/main/res/drawable/ic_baseline_subject_24.xml" value="0.23981481481481481" />
+        <entry key="..\:/DoanTest/app/src/main/res/drawable/ic_baseline_update_24.xml" value="0.23981481481481481" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/activity_add_student.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/activity_add_subjects.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/activity_information_student.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/activity_information_subject.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/activity_login.xml" value="0.4" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/activity_main.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/activity_register.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/activity_reset_password.xml" value="0.6" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/activity_student.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/activity_subject.xml" value="0.8" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/activity_update_student.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/activity_update_subject.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/add_student.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/add_subjects.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/dialogadd.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/dialogaddstudent.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/dialogdeletestudent.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/dialogdeletesubject.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/dialogexit.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/dialoginformation.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/dialogupdate.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/dialogupdatestudent.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/listubject.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/litstudent.xml" value="0.2713541666666667" />
+        <entry key="..\:/DoanTest/app/src/main/res/layout/login.xml" value="0.2713541666666667" />
         <entry key="..\:/mobi/Test/DoAnTest/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/mobi/Test/DoanTest1/app/src/main/res/layout/activity_add_student.xml" value="0.1" />
-        <entry key="..\:/mobi/Test/DoanTest1/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>
